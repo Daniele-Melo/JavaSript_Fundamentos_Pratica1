@@ -1,6 +1,6 @@
 Problema:
 
-Elabore um algoritmo para calcular o salário líquido de uma pessoa.
+Elabore um algoritmo para calcular o salário líquido de cinco pessoas.
 Solicite ao usuário que digite seu nome e o valor de seu salário bruto.
 Peça também para o usuário digitar a quantidade de depenentes.
 Calcule a renda familiar per capita.
