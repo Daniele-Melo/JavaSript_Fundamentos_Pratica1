@@ -3,6 +3,7 @@ Problema:
 Elabore um algoritmo para calcular o salário líquido de cinco pessoas.
 Solicite ao usuário que digite seu nome e o valor de seu salário bruto.
 Peça também para o usuário digitar a quantidade de depenentes.
+Para cada um dos dependentes deve ser solicitado o ganho mensal. Este valor deverá ser adicionado ao salário bruto.
 Calcule a renda familiar per capita.
 Caso a renda para cada membro da família seja menor que R$ 500,00 a pessoa fiará isenta do imposto de renda, ou sej a não será calculado dentre as faixas salariais e seu valor será zero.
 Caso a renda para cada membro da família seja maior, ou iguala R$ 500,00 o imposto de renda a ser descontado do salário deve considerar as seguintes regras:
